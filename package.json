@@ -1,0 +1,16 @@
+{
+  "name": "serverlessOptimizerSample",
+  "version": "0.0.1",
+  "description": "A Serverless Project and its Serverless Plugin dependencies.",
+  "author": "me",
+  "license": "MIT",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/"
+  },
+  "dependencies": {
+    "babelify": "^7.2.0",
+    "serverless-optimizer-plugin": "^0.3.1"
+  }
+}
